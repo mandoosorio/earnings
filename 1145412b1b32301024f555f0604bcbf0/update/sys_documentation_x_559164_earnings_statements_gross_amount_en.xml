@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="gross_amount" label="Gross Amount" language="en" table="x_559164_earnings_statements">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>gross_amount</element>
+            <help/>
+            <hint/>
+            <label>Gross Amount</label>
+            <language>en</language>
+            <name>x_559164_earnings_statements</name>
+            <plural>Gross Amounts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-30 18:37:04</sys_created_on>
+            <sys_id>b7c7c1ab1b32301024f555f0604bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Gross Amount</sys_name>
+            <sys_package display_value="Earnings" source="x_559164_earnings">1145412b1b32301024f555f0604bcbf0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Earnings">1145412b1b32301024f555f0604bcbf0</sys_scope>
+            <sys_update_name>sys_documentation_x_559164_earnings_statements_gross_amount_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-30 18:37:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

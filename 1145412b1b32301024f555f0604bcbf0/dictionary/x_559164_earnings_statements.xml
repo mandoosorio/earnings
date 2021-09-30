@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Statements" max_length="40" name="x_559164_earnings_statements" type="collection">
+        <element label="Amount" max_length="15" name="amount" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element label="Gross Amount" max_length="15" name="gross_amount" type="decimal"/>
+        <element label="Hours" max_length="40" name="hours" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Period End" max_length="40" name="period_end" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Period Start" max_length="40" name="period_start" type="glide_date"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Tax Withheld" max_length="15" name="tax_withheld" type="decimal"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

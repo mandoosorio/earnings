@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-30 18:37:06</sys_created_on>
+        <sys_id>50d705ab1b32301024f555f0604bcb3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_559164_earnings_statements.x_559164_earnings.admin</sys_name>
+        <sys_package display_value="Earnings" source="x_559164_earnings">1145412b1b32301024f555f0604bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Earnings">1145412b1b32301024f555f0604bcbf0</sys_scope>
+        <sys_security_acl display_value="x_559164_earnings_statements">d4d705ab1b32301024f555f0604bcb3a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_50d705ab1b32301024f555f0604bcb3d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-30 18:37:06</sys_updated_on>
+        <sys_user_role display_value="x_559164_earnings.admin" name="x_559164_earnings.admin">05b5052b1b32301024f555f0604bcb28</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
